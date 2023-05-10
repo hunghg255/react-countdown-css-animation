@@ -1,4 +1,4 @@
-import './app.css';
+import './App.css';
 
 import * as React from 'react';
 import { GithubCorners } from 'react-gh-corners';
